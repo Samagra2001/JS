@@ -19,3 +19,6 @@ arr.push(3); // Add to the last of array
 // for(let i=0;i<arr.length;i++){
 //     console.log(arr[i])
 // }
+
+//check
+//
